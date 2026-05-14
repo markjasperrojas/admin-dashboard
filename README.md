@@ -7,3 +7,5 @@ All of the icons and more can be downloaded as SVGs from [Material Design Icons]
 **Logo**: Blue Profile Icon Free PNG by [Vecteezy](https://www.vecteezy.com/png/36885313-blue-profile-icon).
 
 **Logo**: paint palette school supply Free PNG by [Vecteezy](https://www.vecteezy.com/png/24089512-paint-palette-school-supply).
+
+[LIVE DEMO](https://markjasperrojas.github.io/admin-dashboard/)
